@@ -38,6 +38,7 @@ This project analyzes user behavior across three service categories of Transjaka
 
 ---
 ## Repository Structure
+```
 ├── data/
 │ ├── Transjakarta.csv
 │ └── transjakarta_cleaned.csv
@@ -47,3 +48,4 @@ This project analyzes user behavior across three service categories of Transjaka
 │ └── TransJakarta User Profile Dashboard.twbx
 ├── README.md
 └── LICENSE
+```
